@@ -1,4 +1,3 @@
-#lang slideshow
 10
 ; 10
 
